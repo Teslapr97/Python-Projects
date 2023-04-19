@@ -6,7 +6,7 @@ Hello!
 This repository is to share all the python projects I had created during my journey of learning Python. Feel free to check my code.
 
 # Disclaimer:
-The projects are  relfection of my hard work. Please dont copy and paste to steal my work. Use them for inspiration and improvement for your projects/ideas.
+The projects are arelfection of my hard work and self-study. Please dont copy and paste to steal my work. Use them for inspiration and improvement for your projects/ideas.
 
 # Thanks!
 
